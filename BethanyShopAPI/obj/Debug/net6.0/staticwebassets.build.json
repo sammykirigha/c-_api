@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hER8WgNxYRQsREVLb6cWoaFrfKSKOz6Bg0zBwBEOdJA=",
+  "Source": "BethanyShopAPI",
+  "BasePath": "_content/BethanyShopAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
